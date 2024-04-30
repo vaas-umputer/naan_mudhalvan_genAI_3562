@@ -1,4 +1,4 @@
-#NAAN MUDHALVAN - genAI - 2021503562
+**NAAN MUDHALVAN - genAI - 2021503562**
 
 MNIST synthetic digits generation using simple GAN architecture
 
